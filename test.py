@@ -8,8 +8,6 @@ plotly.tools.set_credentials_file(username='iremoze', api_key='N0pN2Vqt1NphEV7q8
 import plotly.plotly as py
 import plotly.graph_objs as go
 
-'TESSST'
-
 serviceUsername = "7c8a4f57-32eb-4b8d-8d03-511763000d12-bluemix"
 servicePassword = "8e2867d38e698bda88f1b7176688143719cf1fab09e11693a11c20993a50aef6"
 serviceURL = "https://7c8a4f57-32eb-4b8d-8d03-511763000d12-bluemix:8e2867d38e698bda88f1b7176688143719cf1fab09e11693a11c20993a50aef6@7c8a4f57-32eb-4b8d-8d03-511763000d12-bluemix.cloudant.com"
